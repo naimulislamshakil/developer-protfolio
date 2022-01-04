@@ -8,3 +8,13 @@ h1{
 span{
     color: orange;
 }
+.half{
+    width: 50%;
+    padding-left: 15px;
+}
+section{
+    display: flex;
+}
+.half img{
+    width: 80%;
+}
