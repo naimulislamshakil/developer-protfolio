@@ -7,6 +7,10 @@ body{
 }
 h1{
     font-size: 50px;
+    font-weight: 400;
+}
+h2{
+    font-weight: 300;
 }
 h3{
     font-weight: 600;
@@ -18,7 +22,7 @@ span{
     width: 40%;
     padding-left: 70px;
 }
-section{
+.flax{
     display: flex;
 }
 .half img{
@@ -41,3 +45,23 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experiences{
+    margin: auto;
+}
+.experiences-h3{
+    color: orange;
+}
+
+.experiences-item{
+    box-shadow: 10px 10px 50px gray;
+    margin-left: 5% ;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+.experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
