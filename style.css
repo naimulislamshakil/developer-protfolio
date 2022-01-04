@@ -15,14 +15,14 @@ span{
     color: orange;
 }
 .half{
-    width: 50%;
+    width: 40%;
     padding-left: 70px;
 }
 section{
     display: flex;
 }
 .half img{
-    width: 80%;
+    width: 100%;
 }
 .div1 a{
     text-decoration: none;
@@ -34,4 +34,10 @@ section{
 }
 .div1 p{
     color: rgba(34, 11, 11, 0.493);
+}
+.ma{
+    margin-top: 10pc;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
